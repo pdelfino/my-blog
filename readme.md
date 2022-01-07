@@ -104,8 +104,10 @@
   Xmacs. Vários motivos. Depois de 1 mês, comecei a me sentir mais
   produtivo, tendo prazer de usar Emacs.
 
-[ ] - conteúdo: um texto sobre 1 único tributo e global. Faz sentido
+- [ ] conteúdo: um texto sobre 1 único tributo e global. Faz sentido
 numa globalização cada vez mais forte. Soberania, estados nacionais,
 feudos... We are one species! Soon, one language...
 
-[ ] - quote foda: Poder decir adiós Es crecer,
+- [ ] quote foda: Poder decir adiós Es crecer,
+
+- [ ] conteúdo: texto sobre os próximos 10 anos
