@@ -1,0 +1,13 @@
+  /home/pedro/projects/my-blog/nomade:
+  total used in directory 108 available 187.3 GiB
+  drwxr-xr-x  2 pedro users  4096 Jan  7 14:58 .
+  drwxr-xr-x 11 pedro users  4096 Nov 24 11:13 ..
+  -rw-r--r--  1 pedro users 37121 Nov 24 11:13 day-0-recife.html
+  -rw-r--r--  1 pedro users 30659 Nov 24 11:13 day-0-recife.md
+  -rw-r--r--  1 pedro users   352 Jan  7 14:58 day-100-canoa-quebrada.org
+  -rw-r--r--  1 pedro users  3214 Nov 24 11:13 day-1-change.md
+  -rw-r--r--  1 pedro users  3018 Nov 24 11:13 day-61-cabedelo.org
+  -rw-r--r--  1 pedro users  2917 Nov 24 18:54 day-89-pipa.org
+  -rw-r--r--  1 pedro users  1378 Nov 24 11:13 PAQ.org
+  -rw-r--r--  1 pedro users   676 Nov 24 11:13 PAQ.org~
+  -rw-r--r--  1 pedro users  2612 Nov 24 11:13 Terra brasilis crônicas de um nômade digital.md
