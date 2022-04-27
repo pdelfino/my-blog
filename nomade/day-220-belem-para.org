@@ -98,17 +98,36 @@
    + O tecnobrega do Pará tem como característica um tecladinho safado!
  
 ** A SAGA da compra da passagem para ir de Belém para a Ilha de Marajó
-De certa forma, comprar essa passagem foi Belém in a Nutshell 
-+ foi um parto
-+ não vende pela internet
-+ vc chega e já tem Cambista
-+ vendedora anota numa folha de papel pelo seu nome e sobrenome
-+ se perder o papelzinho, pode se fuder 
-+ pouca informação em sites
-+ me lembrou daquele texto do DETRAN de Pernambuco 
-+ viemos pessoalmente 
-+ funcionários com mais de 70 anos + o que não é um problema em si. Mas eles parecem fazer o mesmo trabalho há 40 anos. Usando papelzinho
-+ cada companhia vende trechos similares ou iguais. Tem um overlap. Por incrível que pareça, não tem uma tabela ajuntando tudo. + Também não tem uma forma fácil de saber se tem ou não vaga ainda disponível 
+   De certa forma, comprar essa passagem foi Belém in a Nutshell
+   + foi um parto
+   + não vende pela internet
+   + vc chega e já tem Cambista
+   + vendedora anota numa folha de papel pelo seu nome e sobrenome
+   + se perder o papelzinho, pode se fuder
+   + pouca informação em sites
+   + me lembrou daquele texto do DETRAN de Pernambuco
+   + viemos pessoalmente
+   + funcionários com mais de 70 anos + o que não é um problema em
+     si. Mas eles parecem fazer o mesmo trabalho há 40 anos. Usando
+     papelzinho
+   + cada companhia vende trechos similares ou iguais. Tem um
+     overlap. Por incrível que pareça, não tem uma tabela ajuntando
+     todas as informações de preço, qual veículo, tempo de duração,
+     tipo de barco, horário de saída. Você tem que ir de lugar em lugar.
+   + Também não tem uma forma fácil de saber se tem ou não vaga ainda
+     disponível. Vc também tinha que ir lá e perguntar! Ficar na fila
+     para perguntar se ainda tem passagem para o seu destino!
+   + Por um lado, essa compra da passagem mostra o
+     subdesenvolvimento. E serve, de certa forma, como /Belem in a
+     nutshell/.
+   + Horario, preço, tempo de deslocamento do trajeto,
+     disponibilidade. Ainda tem? Qual o preço? Quanto tempo demora?
+     Que horas sai? Basicamente, terminal hidroviário do porto de
+     belem funciona no tratamento da informação mais ou menos como os
+     Romanos tratariam a questão! O que é bizarro…. Já tinha papel na
+     Roma antiga?
+
+   
    
 ** Chuchup
    + Em Minas, chup chup
@@ -207,7 +226,7 @@ De certa forma, comprar essa passagem foi Belém in a Nutshell
    + acordamos, praia, esperança de surf, praia mais feia… tinha umas
      fezes humanas na areia… doideira… floresta bem do lado da praia
 
-** Ajuruteua especificamente
+*** Viagem para Bragança: Ajuruteua especificamente
    + Pará é a Índia do Brasil 
    + Tem que pagar pra pegar ônibus n rodoviária 
    + Concluso  ninguém paga aí ele fica parando e é pior pra tudo 
