@@ -1,31 +1,86 @@
 * Day 30: Ilha de Itamaracá
 
-Foda cara...
-Eu meio que perdi o arquivo... Tinha feito uma cacetada de anotaçoes...
-Tem em algum caderno meu de anotações
+Foda cara...Eu meio que perdi o arquivo... Tinha feito uma cacetada de
+anotaçoes...  Tem em algum caderno meu de anotações
+
+Outra parada bem foda foi que eu estava escrevendo um longo texto
+sobre Itamaracá. Naquele dia que o Mateus chegou.
+
+Mas, naquela época, eu ainda não tinha integrado totalmente o Emacs na
+minha vida. Eu usava ele mais para trabalho. Então, eu tava fazendo no
+Typora, escrevendo um mark down e sem controle de versionamento...
 
 * Anotações aleatórias
-  + DDD 81, ainda no Recife
- 
-  + 
+  + tem aquela cantora, Leda ou Leila de Itamaracá
+
+
+** Hard facts
+  + DDD 81, ainda no Recife 
 
 ** Isso aqui veio do arquivo "terra brasilis" (um org mode)
    ### Itamaracá: raiz
        - seção de fun facts -> 3 instituições prisionais: 2 presídios e 1 manicômio judicial
-       - seção de SINCERICÍDIO -> cidade suja e feia. Mas, o vento é top e o mar é flat. Além de ser perto do Recife.
-       - número de opções de peixes > número de dentes na arcada dentária per capita
+       - seção de SINCERICÍDIO -> cidade suja e feia. Mas, o vento é
+         top e o mar é flat. Além de ser perto do Recife.
+       - número de opções de peixes > número de dentes na arcada
+         dentária per capita
        - mobilidade urbana -> combi
-       - pousada dos ingles
+       - pousada dos ingleses
        - foto da workspace station
-       - o que vivemos agora, não parece possível de ser vivido 10 anos atrás no Brasil, faltaria internet, a não ser em capitais. Menor liquidez de pousadas e etc
-       - Olhando para a minha vida pessoal, seria impossível  viver isso até o fim de 2019. Em 2020, seria possível, mas não recomendado com o início da pandemia
+       - o que vivemos agora, não parece possível de ser vivido 10
+         anos atrás no Brasil, faltaria internet, a não ser em
+         capitais. Menor liquidez de pousadas e etc
+       - Olhando para a minha vida pessoal, seria impossível viver
+         isso até o fim de 2019. Em 2020, seria possível, mas não
+         recomendado com o início da pandemia
        - Talvz, não seja até hoje. Whatever.
        - Leitões caminhando na rua
        - caranguejo vivos
        - tamanho do camarão
-       - condições de higiene precárias, devo admitir. Mas, aquela comida que vc come em barraca de praia usa o mesmo fornecedor, meu amigo, rsrs.
-       - Dois caras com camisas do cruzeiro. Foda. Esses caras me perseguem. Morei no RJ 6.5 anos. Durante 1 ano, em frente ao encontro da torcida no RJ. Tem base?
-       - Uma placa sobre AMADO BATISTA -> "compre uma casa e ganha uma mulher feliz"
+       - condições de higiene precárias, devo admitir. Mas, aquela
+         comida que vc come em barraca de praia usa o mesmo
+         fornecedor, meu amigo, rsrs.
+       - Dois caras com camisas do cruzeiro. Foda. Esses caras me
+         perseguem. Morei no RJ 6.5 anos. Durante 1 ano, em frente ao
+         encontro da torcida no RJ. Tem base?
+       - Uma placa sobre AMADO BATISTA -> "compre uma casa e ganha uma
+         mulher feliz". Aquele corretor que existia em
+         Itamaracá. Feminismo não parece ter chegado lá ainda!!
        - Vida Rural -> cavalos pastando
-       - música do Dorival Caymi, sugestão do Bruno Cuconato. Voltar...
-       - tem também a do reginaldo rossi, que começa com uma imprecisão, rsrs
+       - música do Dorival Caymi, sugestão do Bruno
+         Cuconato. Voltar... "o peixe bom, eu vou voltar"
+       - tem também a do reginaldo rossi, que começa com uma
+         imprecisão, rsrs (não lembro mais a piada. talvez, seja
+         aquela que fica babando ovo do Recife, aquele musica do
+         Reginaldo Rossi)
+
+**  Anotações no caderno sobre Itamaracá
+   + Itamaracá é barato
+   + IKP - ponto do kite, na maré baixa, é bem bonito
+   + Mar, pegamos na transição para o Verão, estava ficando mais bonito
+   + ótimo lugar para kite
+   + cara, lá foi uma experiência PÉ NA AREIA *mesmo*! A gente
+     acordava cedo, saía para caminhar, do caralho a experiência
+   + a gente viu uma lua cheia da varanda que foi sacanagem, nem
+     adianta adicionar foto, não vai ser a mesma coisa
+   + cocada do rei da cocada era maneira
+   + Juninho e Marquinhos foram peça chave da experiência
+   + A gente chegou a ENJOAR de tanto comer camarão, isso é meio bizarro!
+   + em termos de hospedagem, considerando o tamanho que a gente teve
+     acesso de apartamento, Itamaracá foi RIDÍCULO de barato!
+
+** Incursões exploratórias
+   + João Pessoa, praia de Intermares, paixão à primeira vista
+   + OzAgro Igarassu (PE) pqp, do cacete os produtos daquela fazenda
+   + Barra do Cunhaú (RN)
+   + Baía Formosa (RN) 1 único restaurante na cidade, mais ou menos 1
+     pousada, aquilo ali vai ser gigante no futuro
+   + Pipa (RN).... A segunda paixão à primeira vista
+   + Itamaracá foi o lugar onde começamos
+   + Onde vimos que era possível
+   + Onde vimos que era sustentável financeiramente
+   + Onde vimos que essa vida proporcionava coisas incríveis
+   + Baião fugiu NO DIA da viagem para Pipa, o arrombado tava escondido junto com a moto
+   + Ficou miando quando ouviu a Fernanda por perto
+   + 
+    
