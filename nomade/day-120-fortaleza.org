@@ -1,5 +1,8 @@
 * Fortaleza, Verão 2022
-  
+
+** Hard facts
+   - DDD de 85
+     
 ** vocabulário
   - quexudo = mentiroso
   - quebrador -> quebrador de onda?, pega onda quando o mar tá
