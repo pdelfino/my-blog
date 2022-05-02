@@ -2,6 +2,9 @@ Reescrevendo texto do Recife como um org file
 
 * Dia 0: Recife
 
+** Hard facts
+   - DDD 81
+     
 ### Numerologia do diário
 
 O número 0 é um [capítulo à
