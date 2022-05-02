@@ -1,5 +1,9 @@
 * Day 100: Canoa Quebrada
 
+** Hard facts
+  - 88 é o DDD
+  - por sinal, o mesmo de fortaleza
+
 ** pensamentos aleatórios
    - não é um destino que a gente teria realmente escolhido
    - acabamos ficando porque os amigos da Fernanda estariam lá
