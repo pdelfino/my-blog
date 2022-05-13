@@ -16,6 +16,8 @@
     tentando subir a minha remuneração
   - como será que vou estar nos 10 anos do Vetust-up?
   - espero que com um emprego de 6 figures!!
+  - na real, eu poderia escrever uma nova versão do vetust-up! Quem sabe em Clojure?
+    Depois de 10 anos cumprir um sonho? Ia ser do caralho!
     
 
   
