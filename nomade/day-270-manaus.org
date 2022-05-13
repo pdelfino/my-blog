@@ -25,11 +25,31 @@
      são venezuelanos, Manaus é DUBAI da Amazônia, aquele restaurante
      do almoço foi sinistro, pqp. Costela de tambaqui. Cabroquinho tem
      um sanduíche típico foda, com uma fruta no meio (tucumã!)
-   - Tatu bola, tem comportamento nômade! Quem sabe sai daqui o nome do livro :)
+   - Tatu bola, tem comportamento nômade! Quem sabe sai daqui o nome
+     do livro :)
    - O nome da espécie é /Tolypeutes tricinctus/... não ajuda muito!
    - O nome popular é tranquinha no nordeste!
-  
+   - aquela nhaca de peixe no norte do país se chama PITIÚ
+   - Campus UFAM 101 lugares pra transar na UFAM -> página engraçada
+     no facebook!
+   - o campus da universidade tem de tudo, preguiça andando, macaco,
+     tucano, é bem próximo da floresta!
+   - chuta o nome da rua perpendicular a nossa: BELO HORIZONTE!
+     Sim... No meio da Amazônia e, ainda assim, perto de casa...
+   - problemas no ar condicionado, o chão fica úmido todo dia... Os
+     engenheiros são de fora. Estamos dentro de um hotel MERCURY... O
+     projeto vem de fora. Não levaram em conta a umidade da
+     Amazônia...
 
+** Reflexões pesoais
+   - todo mundo pergunta até quando vamos aguentar?
+   - tá meio alienante ficar aqui... a gente mora dentro de um hotel
+   - não frequentamos um academia cheia de nativos como em São Luís
+   - não tem uma praia pra ir, a galera do surf ou do kite
+   - estou trabalhando muito no Hermes e tentando arrumar outros
+     empregos. Essa rotina de application e entrevistas pode ser bem
+     cansativa
+     
 ** Buy, hold, or sell?
    - Buy - pessoal de fora do Norte não tem noção do que é Manaus!
 
@@ -75,7 +95,14 @@
      agentes ambientais limitam. Ovo muito gorduroso. Menos que galinha e
      maior que codorna
 
-Wow! Emacs é muito foda!!!!!!
+   Wow! Emacs é muito foda!!!!!!
 
-Copia do email, cola aqui, aperta =C-c-=,
-depois =M-q=, depoix =C-x TAB= arrows. It is done!
+   Copia do email, cola aqui, aperta =C-c-=,
+
+   depois =M-q=, depoix =C-x TAB= arrows. It is done!
+
+** Frutas que nunca vi
+   - Tucumã (coloca dentro do sanduíche) 
+   - Ingá (verdinho feio) 
+   - Abiu (amarelinho)
+   - Biribá fruta que parece uma graviola 
