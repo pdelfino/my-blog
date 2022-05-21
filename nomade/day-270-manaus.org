@@ -49,6 +49,11 @@
    - estou trabalhando muito no Hermes e tentando arrumar outros
      empregos. Essa rotina de application e entrevistas pode ser bem
      cansativa
+   - também está muito alienante por conta do trabalho, dos meus
+     applications, entrevistas, primeiro gig para enclave, pair
+     programming com o Ben, tech interview da NewsRoomAI, ansiedade
+     com as respostas, homework para PartnerSlate (veio na base do
+     outbound!)
 
 ** Um sábado de Linkedin
    - fomos no MUSA -> árvore de 85 metros!
