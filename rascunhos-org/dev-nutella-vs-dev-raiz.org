@@ -5,7 +5,7 @@
    + tinkering: por que diabos eu ia querer configurar meu PC?
    + OS: Uso Windows desde criança e sempre amei!
    + editor: VS Code tem ícones tão bonitinhos :)
-   + linguagem: JavaScript é show
+   + sobre JS: JavaScript é show
    + tilling window manager: o que é isso?
 
 ** Dev raiz
@@ -13,7 +13,7 @@
    + tinkering: você tem que ver a última gambiarrazinha que fiz na minha config file...
    + OS: Arch, FreeBSD, NixOS, GuixSSD, Gentoo
    + editor: Emacs, Vim/Vi (talvez, neovim)
-   + linguagem: JavaScript é igual mulher feia... todo mundo já teve que usar...
+   + sobre JavaScript: é igual banheiro de rodoviária... todo mundo já teve que usar...
    + tilling window manager: EXWM, StumpWM, xmonad
      
    
