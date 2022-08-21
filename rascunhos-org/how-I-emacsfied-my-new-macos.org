@@ -1,0 +1,7 @@
+* How I emacsfied my new macos (and my life)
+
+- karabiner hot keys
+- karabiner import stuff from windows and tweaked
+- a better UX than what I had in Linux
+- brave extensions
+- 
