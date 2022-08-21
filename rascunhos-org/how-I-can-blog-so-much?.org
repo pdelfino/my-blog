@@ -14,5 +14,8 @@
 - my high school was not based on digital stuff
 - no one used computer, everybody was using physical old-school
   notebooks
-- 2020-milestone do blog, mas foi com Javascript vanilla, HTML, CSS
-- 
+- 2020-milestone do blog, mas foi com Javascript vanilla, HTML, CSS,
+  codepipeline, Amazon S3, melhorei no uso de Git e GitHub
+- 2021, aprendi emacs, org-mode, melhorei no Git
+- 2022, macOS e touch typing
+
