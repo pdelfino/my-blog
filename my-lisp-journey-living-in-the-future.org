@@ -1,0 +1,21 @@
+* Documentar minha exposição à lisp
+
+- em 2013.2, aos 20 anos, comecei a escrever minhas primeiras linhas
+  de programação
+- em 2016.1, aos 22 anos (próximo de fazer 23) comecei na Emap. Assim,
+  mudei para Linux, passei a pensar mais como STEM
+- em 2020, já formado, me aproximei de tecnologias mais próximas do
+  mercado, como JS, HTML, CSS... E detalhes de infra que representam
+  desafios típicos de projetos reais, Amazon S3 e tal
+- em 2021, Aprendi emacs! Nyxt, Common
+
+
+** Curso do Rademaker, em 2016.2
+
+- Linguages de Programação
+- SICP, livro de 1985
+- Emacs era usado pelo prof, software com mais de 50 anos
+- Imutabilidade, first class functions, no-side effects, avoid
+  mutation, Lisp
+- desde 2016, sensação de que vivo no futuro
+- desde 1985, pessoal do Abelson e Sussman vivem no futuro
