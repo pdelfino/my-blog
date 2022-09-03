@@ -19,3 +19,14 @@
   mutation, Lisp
 - desde 2016, sensação de que vivo no futuro
 - desde 1985, pessoal do Abelson e Sussman vivem no futuro
+
+** Why Emacs feels like the future?
+- power
+- cyberpunk
+- do it yourself
+- freedom
+- tailor-made
+- speed
+- full digital citizen, not just user of software, but co-author
+- 
+
