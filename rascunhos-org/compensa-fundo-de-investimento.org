@@ -1,0 +1,8 @@
+* Será que compensa fundo de renda fixa?
+
+- Texto com a performance losing-hope-on-investment-fund
+- SELIC de 3,668671% de 1 de Janeiro até 12 de Maio - [[https://www3.bcb.gov.br/CALCIDADAO/publico/corrigirPelaSelic.do?method=corrigirPelaSelic][fonte]] banco
+  central
+- performance do melhor fundo, que usa [[https://data.anbima.com.br/fundos/547395][crédito privado]]
+- texto com [[https://valorinveste.globo.com/blogs/carlos-heitor-campani/coluna/quais-os-fundos-de-renda-fixa-mais-rentaveis-em-2022.ghtml][a performance]] dos fundos de renda fixa
+
