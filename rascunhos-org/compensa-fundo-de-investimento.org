@@ -5,4 +5,27 @@
   central
 - performance do melhor fundo, que usa [[https://data.anbima.com.br/fundos/547395][crédito privado]]
 - texto com [[https://valorinveste.globo.com/blogs/carlos-heitor-campani/coluna/quais-os-fundos-de-renda-fixa-mais-rentaveis-em-2022.ghtml][a performance]] dos fundos de renda fixa
+- Os 25% piores fundos rendem menos que a SELIC. Bizarro. E eu nem
+  coloquei a taxa de administração
+- O melhor fundo rende 2% a mais que a SELIC. Mas, tem 1.55% de taxa
+  de administração. E tem o risco de crédito!!!
+- A não ser que a pessoa tenha escolhido algum fundo entre os 10
+  melhores fundos, ela vai ganhar MENOS do que se tivesse deixado na
+  SELIC
+- Supondo que vc escolha aleatoriamente um fundo de renda fixa.
+  Supondo uma distribuição uniforme, vc tem 90% de chance de escolher
+  um fundo pior que tesouro direto.
+- O risco do tesouro direto é, basicamente, o país declarar moratória,
+  o que afetaria todos os ativos, inclusive renda variável
+- N sei se eu to “missing something” na análise. N parece compensar
+- É só vc colocar no CDB do banco master que vc vai bater todos esses
+  fundos em renda fixa, certo?
+- Lance da Empiricus do Banco Master
+- Só que vc não vê o risco: marcação a mercade pré fixado, falta de
+  liquidez no mercado secundário, altos spreads pra sair antes,
+  dinheiro preso por 6 anos, risco de crédito do banco
+- Eu não vou perder tempo analisando isso pq nem vou ter todas as
+  informações pra fazer uma análise precisa pra ver se vale a pena
+- Entao, tô fora. Tesouro direto selic na veia. Não me gasta análise
+  nenhuma
 
