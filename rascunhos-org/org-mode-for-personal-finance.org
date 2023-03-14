@@ -1,0 +1,7 @@
+* Texto como uso org-mode para finanças pessoais
+
+- texto e números
+- exemplos de tabela
+- somar o git para controle de versionamento
+- github cloud 
+
