@@ -1,0 +1,12 @@
+* How I completely re-wrote my relationship with my email
+
+** The situation
+
+** Problems
+
+** Solution
+  - find common sender
+  - search for "unread"
+  - just make "read" in all of
+  - other, require specific attention
+    
