@@ -1,15 +1,11 @@
 <!DOCTYPE html>
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
-      integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" crossorigin="anonymous">
 <html lang="pt">
   <head>
     <meta charset="utf-8" />
     <title>Pedro Delfino</title>
+    <meta name="description" content="Blog pessoal de Pedro Delfino - projetos, ensaios e crônicas" />
     <link rel="stylesheet" href="tufte.css" />
-    <link rel="stylesheet" href="latex.css" />
-    <div class="topnav">
-      <a class="home" href="http://www.pdelfino.com.br">Home</a>
-    </div>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-H65WQEW9TH"> </script>
@@ -24,6 +20,9 @@
   </head>
 
   <body>
+    <div class="topnav">
+      <a class="home" href="https://www.pdelfino.com.br">Home</a>
+    </div>
     <article>
       <h1 id="manifesto">Manifesto</h1>
       <p class="subtitle">Pedro Delfino</p>
@@ -53,7 +52,7 @@
                                                              class="margin-toggle"/><span class="marginnote">
             Sebastião Salgado, <em>Waura people fishing in the Piulaga
                  Lake. Upper Xingu, Mato Grosso, Brazil </em>, 2005.</span>
-          <img src="img/salgado-xingu-mato-grosso-2005.png">
+          <img src="img/salgado-xingu-mato-grosso-2005.png" alt="Sebastião Salgado - Waura people fishing in the Piulaga Lake, Upper Xingu, 2005">
         </figure>
       </section>
 
@@ -67,30 +66,6 @@
         </ul>
       </section>
 
-      <!-- <section> -->
-      <!--   <figure> -->
-      <!--     <label for="mn-exports-imports" -->
-      <!--            class="margin-toggle">&#8853;</label><input type="checkbox" -->
-      <!--                                                        id="mn-exports-imports" -->
-      <!--                                                        class="margin-toggle"/><span class="marginnote"> -->
-      <!--       Escher, <em>Hand with reflexing sphere</em>, 1935.</span> -->
-      <!--     <img src="img/escher-hand-with-reflexing-sphere-1935-big.png"> -->
-      <!--   </figure> -->
-      <!-- </section> -->
-
-      <!-- <section> -->
-      <!--   <h2 id="traveling">Diários de um Nômade</h2> -->
-      <!--   <ul> -->
-      <!--     <li> Dia 0: Recife (em construção) </li> -->
-      <!--     <\!-- <li> <a href="nomade/day-0-recife.html"> Dia 0: Recife</a> </li> -\-> -->
-      <!--     <\!-- <li> <a href="nomade/day-i-olinda.html"> Dia i: Olinda</a> </li> -\-> -->
-      <!--     <\!-- <li> <a href="nomade/day-1-change.thml"> Dia 1: -\-> -->
-      <!--         <\!--     Mudança</a> </li> -\-> -->
-      <!--     <\!-- <li> <a href="nomade/day-31-itamaraca.thml"> Dia 31:  Itamaracá</a> </li>-\-> -->
-      <!--     <\!-- <li> <a href="nomade/day-61-itamaraca.thml"> Dia 61: -->
-      <!--          Cabedelo</a> </li> -\-> -->
-      <!--   </ul> -->
-      <!-- </section> -->
 
       <section>
         <h2 id="articles">Crônicas</h2>
@@ -134,14 +109,14 @@
 
       </section>
       <section>
-        <form style="border:0px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/pdelfino"
+        <form class="newsletter-form" action="https://tinyletter.com/pdelfino"
               method="post" target="popupwindow"
               onsubmit="window.open('https://tinyletter.com/pdelfino', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
           <p><label for="tlemail"> <i>Newsletter </i></label></p>
-          <p><input type="text" style="width:140px" name="email" id="tlemail" /></p>
+          <p><input type="email" name="email" id="tlemail" /></p>
           <input type="hidden" value="1" name="embed" />
           <!--
-              <input type="submit" value="Assinar" /> <p><a href="https://tinyletter.com" target="_blank"></a></p>
+              <input type="submit" value="Assinar" /> <p><a href="https://tinyletter.com" target="_blank" rel="noopener noreferrer"></a></p>
               -->
               <button type="submit"> <span class="fa fa-paper-plane"> Assinar </span> </button>
 
