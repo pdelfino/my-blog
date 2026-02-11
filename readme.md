@@ -1,6 +1,8 @@
 # pdelfino.com.br
 
-Personal blog built with Emacs [org-publish](https://orgmode.org/manual/Publishing.html) and [Tufte CSS](https://edwardtufte.github.io/tufte-css/).
+Personal blog built with Emacs
+[org-publish](https://orgmode.org/manual/Publishing.html) and [Tufte
+CSS](https://edwardtufte.github.io/tufte-css/).
 
 Content is authored in `.org` files and compiled to static HTML.
 
