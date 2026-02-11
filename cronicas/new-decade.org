@@ -1,0 +1,82 @@
+#+TITLE: Resoluções da nova década?
+#+LANGUAGE: pt
+#+OPTIONS: toc:nil num:nil
+
+#+begin_export html
+<p class="subtitle">11 de Janeiro de 2021</p>
+#+end_export
+
+No final de Dezembro passado, estive pensando quais seriam as minhas metas para a década que se inicia em 2021. Arquitetei um sofisticado plano com desenhos de 3, 5, 7, 10 e 15 metas para os próximos 1, 3, 5, 7 e 10 anos, respectivamente.
+
+Aliás, eu me empolguei. Decidi que um exercício apenas sobre o futuro seria pouco. O simbolismo do fim da década de 2011 a 2020 exigia um processo de reflexão. Decidi incluir também o passado: 3, 5, 7, 10 e 15 pontos de destaque (positivos e negativos) sobre os últimos 1, 3, 5, 7 e 10 anos, respectivamente. Esse /respectivamente/ é muito irritante. Eu sei.
+
+A simplória virada 2020->2021 rolou e, no dia seguinte, gastei 90 minutos apenas com a avaliação de 2020. Em 4 páginas, descrevi pontos positivos e negativos. Sim, 4 páginas. Para piorar, fui incapaz de sintetizar os mais de 30 pontos em apenas 3. Mesmo ignorando a metodologia definida sistematicamente por mim mesmo, esse processo foi legal.
+
+#+begin_export html
+<figure>
+  <label for="mn-archimedes" class="margin-toggle">&#8853;</label>
+  <input type="checkbox" id="mn-archimedes" class="margin-toggle"/>
+  <span class="marginnote"> Domenico Fetti, <em>Thoughtfull Archimedes</em>, 1620.</span>
+  <img src="/img/domenico-fetti-archimedes-thoughtfull-1620.jpg" alt="Archimedes Thoughtfull, 1620 - Domenico Fetti">
+</figure>
+#+end_export
+
+Avance o filme 10 dias... Comecei o dia 11 de Janeiro de 2021 com uma solução. Ao acordar, eu sabia a minha *grande meta* para esta década.
+
+Antes de te contar, vamos voltar 5 anos no tempo. Lá em meados de 2015, li um texto do grande Paul Graham que me marcou. Em /[[http://www.paulgraham.com/todo.html][The top of my todo list]]/ (Abril, 2012), PG deu um tom de resenha para o seu ensaio; o que parece raro.
+
+Ele citou o livro /The Regrets of the Dying/, uma obra escrita por uma enfermeira que, durante alguns anos, tratou de pacientes terminais. Na sua rotina, ela percebeu um padrão sobre quais eram os arrepedimentos mais comuns daqueles que *sabiam* que não passariam da próxima curva da vida.
+
+Como eu ainda não levantei o www.pedrodelfino.com, onde escreverei em inglês, segue a minha traduação livre do /Top 5/:
+
+- "Eu gostaria de ter tido mais coragem para viver a vida que eu queria, não a vida que outros esperavam que eu tivesse";
+- "Eu gostaria de ter trabalhado menos" @@html:<span class="marginnote">Os Titãs acertaram isso em cheio, além de outros pontos, com a música <a href="https://www.youtube.com/watch?v=tyzS8epUX1w">Epitáfio</a>. E olha que eles não acompanharam pacientes terminais. Grande Titãs...</span>@@
+- "Eu gostaria de ter tido coragem para expressar meus sentimentos";
+- "Eu gostaria de ter mantido mais contato com meus amigos"; e,
+- "Eu gostaria de ter me deixado ser mais feliz"
+
+No original:
+
+- "I wish I'd had the courage to live a life [[https://en.wikipedia.org/wiki/Authenticity_(philosophy)][true to myself]], not the life others expected of me."
+- "I wish I hadn't [[https://en.wikipedia.org/wiki/Overwork][worked so hard]]."
+- "I wish I'd had the courage to express my feelings."
+- "I wish I had stayed in touch with my friends."
+- "I wish that I had let myself be happier."
+
+PG percebeu um padrão que me passou batido: pelo menos 4 de 5 desses arrependimentos são erros de omissão, isto é, ato ou efeito /de deixar de fazer/. O que ele não disse foi o que mais doeu.
+
+#+begin_export html
+<figure>
+  <label for="mn-elevator" class="margin-toggle">&#8853;</label>
+  <input type="checkbox" id="mn-elevator" class="margin-toggle"/>
+  <span class="marginnote">Baldwin, <em>Buttons at the elevator</em>, 2019.</span>
+  <img src="/img/baldwin-buttons-at-elevator-2019.jpg" alt="Baldwin, Buttons at the elevator, 2019">
+</figure>
+#+end_export
+
+No meu caso, o último é o que mais me embrulha o estômago. Consigo me ver colocando esse último como o meu grande arrependimento; caso eu me tornasse um paciente terminal.
+
+Aliás, isso me faz lembrar com remorso da década passada. Nos anos de 2011 a 2020 eu vivi parte da minha adolescência e o início da minha vida adulta. Em diversos momentos, eu claramente poderia ter *escolhido* ser mais feliz do que eu era.
+
+Não fui estruturalmente infeliz. Pelo contrário. Eu fui estruturalmente feliz. Entretanto, por algum motivo, eu não me deixava ser mais feliz do que eu era. E isso poderia ter sido feito. Eu tinha diversos motivos para isso.
+
+Não devo ser o único. Por sinal, a caricatura pejorativa de adolescentes (ou aborrecentes) parece remeter, pelo menos parcialmente, a esse fenômeno.
+
+Por que eu fazia isso? Por que eu escolhia ser menos feliz do que eu podia?
+
+Talvez, porque eu acreditava que escolher ser mais feliz me deixaria mais acomodado. Não sei. Se for, que bobeira - para não dizer algo mais grave.
+
+Vai ver, na próxima década, eu descubro. Por enquanto, para esta década, a supreendente clarividência sintética matinal do dia 11 de Janeiro de 2021 cravou a resolução que:
+
+/Na década de 20 do século XXI (2021-2030), eu vou me deixar ser mais feliz/.
+
+#+begin_export html
+<figure>
+  <label for="mn-angelus" class="margin-toggle">&#8853;</label>
+  <input type="checkbox" id="mn-angelus" class="margin-toggle"/>
+  <span class="marginnote">Jean-François Millet, <em>The Angelus</em>, 1857.</span>
+  <img src="/img/the-angelus-jean-françois-millet-1857.jpeg" alt="The Angelus por Jean-François Millet, 1857–59.">
+</figure>
+#+end_export
+
+P.S.: A palavra /gratidão/ é uma espécie de sujeito oculto presente em boa parte do texto. Eu sei. Algo em mim impediu que ela fosse usada. E essa é uma palavra linda. Talvez, esse bloqueio rolou porque uma galera mala conseguiu desgastá-la. Também fizeram isso com /resiliência/. Tomara que essa destruição de belas palavras /à La redê saucial/ tenha acabado na década passada.

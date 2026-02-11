@@ -1,0 +1,11 @@
+#+TITLE: Este blog
+#+LANGUAGE: pt
+#+OPTIONS: toc:nil num:nil
+
+#+begin_export html
+<p class="subtitle">28 de Dezembro de 2020</p>
+#+end_export
+
+Este blog foi construído a partir do /template/ de CSS baseado na obra de [[https://github.com/edwardtufte/tufte-css][Edward Tufte]]. Há de se ressaltar que não utilizei nenhum /framework/ de /front-end/. Achei que seria didático usar apenas HTML, CSS e Javascript puros. Na versão em inglês do blog, no www.pedrodelfino.com, pretendo usar React na construção. Essa escolha também passa por fins didáticos.
+
+Além disso, utilizo Amazon S3 como infraestrutura de armazenamento, um domínio comprado na GoDaddy e o Codepipeline da Amazon para prover /continuous deployment/. A partir de /commits/ que faço em um repositório do Github, o site é atualizado instantaneamente. A Amazon cobra 0.50 dólares americanos ao mês pelo S3 e o GoDaddy cobra 40 reais por ano pelo domínio; os demais serviços são gratuitos.

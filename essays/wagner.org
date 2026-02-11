@@ -1,0 +1,58 @@
+#+TITLE: Professor Eduardo Wagner
+#+LANGUAGE: pt
+#+OPTIONS: toc:nil num:nil
+
+#+begin_export html
+<p class="subtitle">13 de Março de 2020</p>
+#+end_export
+
+Boa noite a todos, @@html:<span class="marginnote">Este discurso foi proferido como uma homenagem ao Professor Eduardo Wagner na cerimônia de colação de grau da turma de 2016 da Escola de Matemática Aplicada da FGV. Neste dia, a versão falada foi próxima, mas não idêntica a este texto. Com o objetivo de tornar o discurso mais próximo de uma fala e não de um texto escrito, o tom é propositalmente informal. Assim, algumas conjunções cabíveis foram omitidas.</span>@@ @@html:<br>@@
+Ter o professor Eduardo Wagner como patrono é uma grande honra. Pensei que uma boa forma de mostrar nossa admiração e nosso carinho por ele seria contando uma história.
+
+** Uma história didática
+
+Quatro anos atrás, quando a gente ainda estava se acostumando com a EMAp, vários professores indicaram os livros que seriam usados ao longo do semestre. Curiosamente, o professor Wagner não fez nenhuma recomendação.
+
+Como eu sempre fui um sujeito ansioso, e como desde o início do curso eu estava muito preocupado em sobreviver à graduação, decidi perguntar ao professor se ele me indicava algum livro para acompanhar o curso. A resposta dele foi engraçada.
+
+Primeiro, ele disse que "não indicava nenhum livro". De acordo com ele, os livros de graduação disponíveis no mercado eram muito fáceis para o nosso curso e os livros mais robustos seriam adequados para o mestrado. Assim, a abordagem que ele pretendia caía num vazio editorial.
+
+Nesse momento, acho que eu transpareci um pouco de medo. O professor, então, disse que eu poderia ficar tranquilo, pois o caderno e as listas seriam suficientes para acompanhar o curso.
+
+Como todos aqui podem confirmar, ele estava certo e, para ser honesto, ele foi até humilde. O caderno do professor Wagner é superior em qualidade a muitos livros de matemática que eu já tive acesso. É um material claro, organizado e didático.
+
+** Excepcional
+
+Por incrível que pareça, conteúdo em matemática com essas características é algo raro. Alguns livros e palestras de matemática parecem ser feitas para uma única pessoa: o próprio escritor ou palestrante.
+
+Eduardo Wagner, por sua vez, vai no sentido oposto. Ele busca apresentar a Matemática da forma mais precisa e acessível. Aliás, a experiência pedagógica do professor me lembra, inclusive, de uma citação do matemático escocês Eric Bell, ele dizia que /óbvio é a palavra mais perigosa na matemática/. Depois de quatro anos de graduação, eu me sinto a vontade para fazer um adendo: no ensino de matemática, o uso da palavra /óbvio/ é ainda mais perigosa.
+
+Nas disciplinas do professor Wagner, cada detalhe da aula é conduzido com excelência. Cada definição é acompanhada de exemplos ilustrativos. Cada proposição é demonstrada de forma inteligível. Em alguns casos, com mais de um caminho possível. Os exercícios são apresentados com dificuldades progressivas. Até a caligrafia é perfeita.
+
+A única parte desagradável desse processo todo era a discrepância entre o quadro dele e o meu caderno. O quadro parecia ter sido feito em /LaTeX/, com circunferências perfeitamente desenhadas a mão. O meu caderno, por outro lado, tinha desenhos de um garotinho do maternal, rs.
+
+** Beleza
+
+Sobre essa questão estética, outro episódio me vem à mente. O matemático inglês Hardy certa vez afirmou que a beleza era o primeiro teste para a matemática. Dessa forma, não haveria lugar no mundo para a Matemática feia.
+
+Não me lembro de ouvir o professor Wagner citar Hardy uma vez sequer. Ainda assim, eu conseguia ver o espírito de Hardy na forma como o professor Wagner, diariamente, construía a matemática em sala.
+
+** Modelo
+
+Pensando nos discursos de hoje, eu comecei a tentar "modelar" quais seriam as características dos melhores professores que tive nos meus longos anos como estudante. E foram muitos. Só de FGV são 6 anos e meio. As características convergiram para:
+
+- primeiro, todos eram apaixonados pelo assunto que ensinavam;
+- segundo, todos tinham um alto padrão, não aceitando qualquer resposta ou um trabalho mal feito, e, por fim; e,
+- todos gostavam da gente. Pode parecer engraçado ou trágico, mas nem todo professor gosta de ter alunos.
+
+O professor Wagner reúne, com louvor, todos os três pontos que citei. Ele me faz lembrar de mais uma frase famosa de um matemático notável. Dessa vez, do Poisson que, em uma ocasião, disse: /a vida é boa por apenas duas razões, para descobrir matemática e para ensinar matemática/. O professor Wagner personifica esse entusiasmo pela matemática.
+
+O último ponto, sobre gostar da gente, é, inclusive, ilustrado nessa foto de 2016. Na época, houve uma excursão a uma exposição de astronomia.
+
+** Matemática Brasileira
+
+Professor, todos aqui têm orgulho de terem tido você como mestre. Em nome da turma aproveito para te parabenizar pela sua carreira e, como cidadão brasileiro, agradeço pelas suas contribuições no ensino da matemática no nosso país.
+
+Por fim, aproveito para lembrá-lo que, diferentemente do MEC, nós, alunos, valorizamos muito mais aprender de verdade, com alguém que sabe ensinar, do que títulos. Você nos ensinou muito.
+
+Obrigado.

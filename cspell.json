@@ -1,0 +1,29 @@
+{
+  "version": "0.2",
+  "language": "pt_BR,en",
+  "files": ["**/*.org"],
+  "ignorePaths": [
+    "rascunhos-org/",
+    "rascunhos-markdown/",
+    "resenhas/",
+    "public/",
+    ".packages/",
+    "node_modules/"
+  ],
+  "ignoreRegExpList": [
+    "/#\\+.*$/gm",
+    "/\\[\\[.*?\\]\\]/g",
+    "/@@html:.*?@@/g",
+    "/#\\+begin_export html[\\s\\S]*?#\\+end_export/gm",
+    "/https?:\\/\\/\\S+/g",
+    "/[\\w.]+@[\\w.]+/g"
+  ],
+  "dictionaryDefinitions": [
+    {
+      "name": "custom-words",
+      "path": "./cspell-custom-words.txt",
+      "addWords": true
+    }
+  ],
+  "dictionaries": ["custom-words"]
+}

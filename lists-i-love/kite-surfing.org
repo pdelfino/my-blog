@@ -1,0 +1,19 @@
+#+TITLE: Lugares que velejei via kite surfing
+#+LANGUAGE: pt
+#+OPTIONS: toc:nil num:nil
+
+#+begin_export html
+<p class="subtitle">De 2021 até hoje</p>
+#+end_export
+
+- Pontal de Maracaípe, Pernambuco, Brasil, Agosto de 2020
+- Cumbuco, Ceará, Brasil, Setembro de 2020
+- Lagoa do Cauípe, Ceará, Brasil, Setembro de 2020
+- Ilha de Itamaracá, Pernambuco, Brasil, Julho de 2021
+- Praia de Intermares, Paraíba, Brasil, Setembro de 2021
+- Barra do Cunhaú, Rio Grande do Norte, Brasil, Setembro de 2021
+- Praia de Santo Crito, São Miguel do Gostoso, Rio Grande do Norte, Brasil, Outubro de 2021
+- Praia de Carnaubinhas, Rio Grande do Norte, Brasil, Outubro de 2021
+- Fortim (próximo a Canoa Quebrada), Ceará, Brasil, Dezembro de 2021
+- Jericoacara/Preá, Ceará, Brasil, Fevereiro de 2022
+- Barra Grande, Piauí, Brasil, Fevereiro de 2022 (foram só 15 minutos, mas tá marcado!)

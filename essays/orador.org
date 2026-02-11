@@ -1,0 +1,79 @@
+#+TITLE: Matemática Aplicada FGV, Turma de 2016
+#+LANGUAGE: pt
+#+OPTIONS: toc:nil num:nil
+
+#+begin_export html
+<p class="subtitle">13 de Março de 2020</p>
+#+end_export
+
+Mais uma vez, @@html:<br>@@ @@html:<span class="marginnote">Este texto foi proferido como o meu discurso de orador na cerimônia de colação de grau da turma de 2016 da Escola de Matemática Aplicada da FGV. Neste dia, a versão falada foi próxima, mas não idêntica a este texto. Com o objetivo de tornar o discurso mais próximo de uma fala e não de um texto escrito, o tom é propositalmente informal. Assim, algumas conjunções cabíveis foram omitidas.</span>@@ Boa noite a todos.
+
+** Tropa de Elite
+
+Eu olho para esse palco e vejo 5 formandos. Comigo são 6. São tão poucos formandos que algumas pessoas fazem até mais de um discurso, rs.
+
+Com essa cena dá para concluir que os últimos 4 anos foram difíceis. Para alguns foi mais tortuoso, para outros menos. No meu caso, foi bastante duro. Mas todos aqui, com certeza, tiveram a sua quota de sacrifícios pessoais e de suor.
+
+Na primeira aula, da primeira semana, do primeiro semestre, lá em 2016, a turma tinha 20 matriculados oriundos do vestibular e do ENEM. Somados a esse caminho tradicional, ainda houve mais pessoas que entraram na turma por transferência ou pelo programa de dupla graduação. Ao todo, cerca de 25 pessoas, em algum momento, tentaram se formar junto a essa turma em Matemática Aplicada na FGV.
+
+Alguns mudaram de curso. Alguns mudaram de faculdade. Houve quem fizesse ambos. E houve quem optasse até mesmo por não continuar no ensino superior.
+
+Desses 25, sobraram 11. 6 estão aqui hoje se formando. Outros 5: o Matheus, o China, a Carlinha, a Bibi e o Fifi, se Deus quiser, em breve estarão também nessa posição. Diante desses números, nós realmente merecemos os parabéns que estamos recebendo.
+
+Como a Física é meramente um ramo da Matemática Aplicada, vou recorrer a uma analogia com a propriedade da resiliência. Se tiver algum físico na plateia, eu peço vênia pela brincadeira. Na Física, a resiliência é a propriedade que alguns materiais têm de acumular energia quando submetidos a um stress sem que ocorram rupturas. De forma confiante, posso dizer que todos os formandos passaram com louvor nos testes de resiliência.
+
+Até aqui, esse discurso faz parecer que a nossa graduação consistiu apenas de sangue, suor e lágrimas. Mas esse não é um retrato fiel.
+
+Na verdade, houve muitos momentos felizes. Houve momentos sublimes em que sentimos o sabor da vitória ao resolver questões que horas ou dias antes pareciam impossíveis. Na realidade, houve disciplinas inteiras que pareciam impossíveis durante boa parte do semestre. Processos estocásticos foi uma.
+
+Houve instantes em que sentimos um misto de alívio e de felicidade em, finalmente, consertar um código com bug obscuro . E houve, ainda, aprovações em processos seletivos de estágio e de emprego altamente competitivos. Sem contar as publicações em períodos científicos que também ocorreram.
+
+** Invenções
+
+Aliás, nesse sentido, é com muito orgulho que eu digo que foi a nossa turma que criou a /Fibonight/. Para aqueles que não conhecem, é um encontro cultural com um show de talentos (ou, predominantemente, de falta de talentos) organizado por alunos da escola de Matemática Aplicada. Por sinal, o próprio nome, um trocadilho com a sequência de Fibonacci, já indica um humor característico dos matemáticos. A Fibonight começou em 2017 mas a sensação é que ela parece ser mais tradicional que a própria EMAp.
+
+E nem só de festas, shows de talentos e comemorações vive a nossa turma. Além da invenção da Fibonight, também posso me orgulhar de dizer que foram membros dessa turma que criaram o DAMA, o Diretório Acadêmico de Matemática Aplicada.
+
+Curiosamente, outra invenção cujo nome chama atenção. Por coincidência ou não, o DAMA foi presidido por uma mulher, ou melhor, por uma dama: a nossa colega Fernanda Scovino - a única formanda aqui hoje. Essa coincidência tem um simbolismo que não poderia passar batido. A história do DAMA nos mostra que as mulheres podem até ser historicamente minoria na matemática, mas isso não impede que elas exerçam uma liderança bastante positiva para nossa comunidade.
+
+** Uma grande onda
+
+Ao comentar essas iniciativas, fico esperançoso com o futuro. A combinação dessa postura proativa e engenhosa com o treinamento que recebemos pode permitir combinações férteis. Existe diante de nós uma grande oportunidade.
+
+No final de sua vida, Galileu disse que, se pudesse voltar no tempo, ele teria se concentrado em estudar matemática na sua juventude. Bom, nós começamos bem.
+
+Na verdade, somos ainda mais sortudos que Galileu: em toda a história da humanidade, a matemática nunca esteve tão na moda e tão valorizada pelo senso-comum como agora. /Machine Learning/, por exemplo, parece não ser mais um assunto restrito a /nerds/ como a gente.
+
+** Ética
+
+Se, por um lado, existe uma grande onda vindo e nós aprendemos a surfar, por outro, essa onda também traz grandes responsabilidades - como sugeriria o Tio do Peter Parker, o /Uncle Ben/: /grandes poderes trazem grandes responsabilidades/. Essa é uma formatura de Matemática, eu tinha que fazer alguma referência ao universo dos quadrinhos e super-heróis.
+
+Por trás de todo algoritmo, existe pelo menos um ser humano que o escreveu. Por trás de todo modelo matemático útil, robusto e lindo existem pressupostos definidos por pelo menos uma pessoa. Como todos, essa pessoa tem os seus vieses cognitivos e as suas limitações.
+
+E é justamente nesse contexto que entra a Ética. Apesar dessa matéria não ter sido obrigatória, eu sugiro que todos aqui estudem o assunto e se preparem. Os dilemas éticos na nossa profissão serão cada vez mais comuns.
+
+Falando como alguém que já fez mais de uma disciplina de Ética, eu adianto que a experiência é bem diferente de estudar cálculo. Em Ética, você não sente que aprendeu. No melhor dos cenários, suas perguntas vão ser melhores do que eram. Mas, infelizmente, esse assunto não tem gabarito.
+
+** Sugestão
+
+Como penúltimo comentário, eu queria fazer uma recomendação. De todas as graduações da FGV, o nosso curso é o que tem a maior vocação interdisciplinar. Na realidade, se compararmos com todos os cursos possíveis de alguém se formar, Matemática Aplicada deve ser a graduação com o maior potencial de transdisciplinaridade - perdendo talvez só para a Filosofia.
+
+Infelizmente, muitas vezes por nossa culpa, ficamos restritos a zona de conforto da matemática e da programação. Por isso, sugiro que a gente passe a ler mais livros, sobre os mais diversos assuntos, da geografia passando por genética até os cânones da literatura mundial. É nessa hora, vendo a Matemática onde muitos não veem, que a gente vai honrar a parte /aplicada/ da nossa formação.
+
+** Obrigado
+
+Como último vetor de destaque, queria falar do nosso relacionamento como turma. Um evento que me chama atenção é o fato do nosso primeiro monitor ter sido no terceiro ano de graduação. Até então, nos dois primeiros anos, a gente contou com o apoio dos nossos professores e, principalmente, nós contamos uns com os outros.
+
+Aliás, todos aqui, absolutamente todos, já me ajudaram pelo menos uma vez. Seja esclarecendo uma dúvida, seja corrigindo um exercício ou simplesmente pensando alto comigo sobre algum problema.
+
+Seria possível, inclusive, modelar essas interações como um grafo. Olhando para mim mesmo como um dos vértices, talvez o grafo não fosse /completo/, afinal, acho que não ajudei todos vocês. Mas, com certeza, o grafo seria /conexo/.
+
+É óbvio que a nossa relação como turma não foi perfeita. Mas ela nunca é. Casamentos não são e nem mesmo as mais fiés amizades são relacionamentos perfeitos. Predominantemente, nossa convivência foi saudável e camarada. Principalmente na primeira metade da graduação. Eu peço que vocês carreguem esse espírito amigável, da família EMAp, para outros ambientes.
+
+Eu posso dizer, com sinceridade, que vocês são minha turma favorita de graduação. Em geral, essa não seria uma afirmação muito notável. Mas, no meu caso, vocês sabem o significado.
+
+Por fim, queria encerrar dizendo que foi uma honra ter sido colega de vocês. Tenho certeza que, nos próximos anos, vou ouvir boas notícias do avanço na carreira de vocês no mercado financeiro, no mercado de /games/, nas políticas públicas e na ciência da computação.
+
+Como vocês sabem, em muitos momentos eu pensei que não estaria aqui, que eu não conseguiria concluir o curso. Estar aqui, com vocês, hoje, e ter sido escolhido como orador, por vocês, é uma honraria que eu vou me lembrar para o resto da minha vida.
+
+Muito obrigado.

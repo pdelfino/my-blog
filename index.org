@@ -1,0 +1,71 @@
+#+TITLE: Pedro Delfino
+#+LANGUAGE: pt
+#+OPTIONS: toc:nil num:nil title:nil html-postamble:nil
+
+#+begin_export html
+<h1 id="manifesto">Manifesto</h1>
+<p class="subtitle">Pedro Delfino</p>
+#+end_export
+
+Fuçadores são camaradas com interesses peculiares e profundos; curiosos que têm mais perguntas do que respostas. Muitas vezes, são pessoas que gosto de conversar. O problema é que eles são difíceis de achar. E, normalmente, não é você que os encontra, são eles que te acham.
+
+Aqui, pretendo compartilhar projetos, ensaios e crônicas - além de um diário de viajante. Trata-se de [mais] uma agulha no palheiro da /web/. O plano é que esse esforço seja como uma isca que consiga atrair fuçadores com interesses similares aos meus. A aposta, portanto, é na serendipidade e nos eventos de cauda longa. Seja bem-vindo, fuçador. E não hesite em me contactar :)
+
+Como eu sei que você é um?
+
+/A fisherman sees another fisherman from afar.../
+
+#+begin_export html
+<figure>
+  <label for="mn-exports-imports" class="margin-toggle">&#8853;</label>
+  <input type="checkbox" id="mn-exports-imports" class="margin-toggle"/>
+  <span class="marginnote">Sebastião Salgado, <em>Waura people fishing in the Piulaga Lake. Upper Xingu, Mato Grosso, Brazil</em>, 2005.</span>
+  <img src="/img/salgado-xingu-mato-grosso-2005.png" alt="Sebastião Salgado - Waura people fishing in the Piulaga Lake, Upper Xingu, 2005">
+</figure>
+#+end_export
+
+* Projetos
+
+- [[https://nyxt.atlas.engineer/][Nyxt Browser]]
+- [[file:projects/technical-writing.org][Technical writing for the Nyxt Browser]]
+- [[file:projects/this-blog.org][Este blog]]
+- [[file:projects/oab.org][Hackeando a OAB]]
+
+* Crônicas
+
+- [[file:cronicas/fantasmas.org][Fantasmas existem]]
+- [[file:cronicas/pai-lenda.org][O dia em que meu pai virou uma lenda]]
+- [[file:cronicas/olinda.org][Olinda]]
+- [[file:cronicas/new-decade.org][Resoluções da nova década?]]
+
+* Ensaios
+
+- [[file:essays/law-and-applied-math.org][Por que fazer Direito e Matemática Aplicada?]]
+- [[file:essays/orador.org][Matemática Aplicada, Turma de 2016]]
+- [[file:essays/wagner.org][Professor Eduardo Wagner]]
+- [[file:essays/falcao.org][Professor Joaquim Falcão]]
+
+* @@html:&#9829;@@ Listas
+
+- [[file:lists-i-love/surfing.org][Lugares que surfei]]
+- [[file:lists-i-love/kite-surfing.org][Lugares que velejei]]
+
+* Ponteiros
+
+- Email: p [ponto] delfino01 [arrouba] gmail [ponto] com @@html:<span class="marginnote"> A forma usual de email (e.g.: sobrenome@gmail.com) foi driblada para evitar <i>web crawlers</i> construídos por <i>spammers</i> profissionais.</span>@@
+- [[https://github.com/pdelfino][Github]]
+- [[https://www.linkedin.com/in/pedro-delfino][Linkedin]] (evito sempre que posso)
+- [[https://scholar.google.com/citations?user=evOdQlEAAAAJ&hl=en][Google Scholar]]
+
+#+begin_export html
+<form class="newsletter-form" action="https://tinyletter.com/pdelfino"
+      method="post" target="popupwindow"
+      onsubmit="window.open('https://tinyletter.com/pdelfino', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
+  <p><label for="tlemail"><i>Newsletter</i></label></p>
+  <p><input type="email" name="email" id="tlemail" /></p>
+  <input type="hidden" value="1" name="embed" />
+  <button type="submit"><span class="fa fa-paper-plane"> Assinar</span></button>
+</form>
+
+<p class="subtitle" style="margin-top: 2rem; font-size: 0.9rem; color: #999;">v2026.02.08</p>
+#+end_export

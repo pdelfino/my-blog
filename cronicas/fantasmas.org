@@ -1,0 +1,55 @@
+#+TITLE: Fantasmas existem
+#+LANGUAGE: pt
+#+OPTIONS: toc:nil num:nil
+
+#+begin_export html
+<p class="subtitle">20 de Maio de 2021</p>
+#+end_export
+
+Meus fantasmas não empurram copos e nem aparecem de relance no espelho com o cabelo na cara. Mas, eles são, sim, invisíveis (quando querem).
+
+Meus fantasmas são as frases que ouvi. Ou as frases que /acho/ que ouvi. Ou ainda as que *não* ouvi, aquelas que me /con-ta-ram/ (com separação silábica, afinal, fofoca boa é fofoca pausada). E tem também as frases que /inferi/, posto que é nas entrelinhas (e não no porão) que mora o fantasma.
+
+#+begin_export html
+<figure>
+  <label for="mn-memories" class="margin-toggle">&#8853;</label>
+  <input type="checkbox" id="mn-memories" class="margin-toggle"/>
+  <span class="marginnote">Walter Langley, <em>Memories</em>, 1906.</span>
+  <img src="/img/walter-langley-memories-1906.jpg" alt="Walter Langley, Memories, 1906">
+</figure>
+#+end_export
+
+Meus fantasmas não têm vocação homicida. Mas, eles me tiram sono.
+
+Meus fantasmas são as frases que eu disse. E também as que não disse. E tem até as que eu disse... nos meus simulacros, quando ensaiava /a posteriori/ o que eu queria (e devia?) ter dito - olha aí um adendo fantasmagórico.
+
+Meus fantasmas nunca estão no presente. Eles são ponteiros que endereçam as mais variadas interpretações (negativas) do passado e as mais especulativas projeções (pessimistas) do futuro.
+
+Meus fantasmas são meus.  Alguns até tiveram uma ajudinha, /colabs/ com outros artistas, mas todos, definitivamente, têm a minha assinatura.
+
+Meus fantasmas não me assustam, mas eles me incomodam. E também me deprimem. Por quê?
+
+#+begin_export html
+<figure>
+  <label for="mn-nightmare" class="margin-toggle">&#8853;</label>
+  <input type="checkbox" id="mn-nightmare" class="margin-toggle"/>
+  <span class="marginnote">Henry Fuseli, <em>The nightmare</em>, 1781.</span>
+  <img src="/img/henry-fuseli-the-nightmare-1781.JPG" alt="Henry Fuseli, The Nightmare, 1781">
+</figure>
+#+end_export
+
+Porque falam o que não deveriam sobre assuntos que não conhecem. Ou que não entendem. Além de gritar enquanto tento trabalhar.
+
+E o que me resta fazer? Chamar os /Ghost Busters/?
+
+Vai ver... A solução é perceber que eles são como a raiz quadrada de números negativos, até existem mas não são reais, rs. Nenhum fantasma sobrevive ao *aqui* e *agora*.
+
+\nbsp
+
+/Fun fact/: algumas pessoas de carne osso, veja só, são /quaaaaase/ fantasmas. Só não são meus. Esses aí são filhos de um outro /abençoado/ com uma /abençoada/.
+
+\nbsp
+
+P.S. 1: A vida seria mais fácil se eu aceitasse que não sou eu que escrevo os textos, eles simplesmente aparecem para mim. A propósito, um fenômeno análogo aos meus fantasmas. Diferente deles, os textos são uma /agradável/ aparição. E que dura pouco. Além de chatos, meus fantasmas deviam contribuir com o IPTU.
+
+P.S. 2:  Aquela musiquinha dos Caçadores de Fantasmas é tão boa e tão nostálgica que dá, no mínimo, uma aliviada em qualquer amolação. Os anos 80 tem uma magia. É tão forte que sinto saudade de uma época que eu não vivi.

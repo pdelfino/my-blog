@@ -1,0 +1,15 @@
+#+TITLE: Hackeando a OAB
+#+LANGUAGE: pt
+#+OPTIONS: toc:nil num:nil
+
+#+begin_export html
+<p class="subtitle">De Agosto de 2016 até Hoje</p>
+#+end_export
+
+* Construindo o primeiro algoritmo aprovado no Exame da OAB
+
+Meu Trabalho de Conclusão de Curso pode ser lido como um:
+
+- [[http://bibliotecadigital.fgv.br/dspace/bitstream/handle/10438/24728/PEDRO%20DELFINO.pdf?sequence=1&isAllowed=y][PDF disponível na biblioteca digital da FGV;]]
+- e-book [em breve] disponível na Amazon; e,
+- web based book [em breve].

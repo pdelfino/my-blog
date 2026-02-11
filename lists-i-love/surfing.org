@@ -1,0 +1,56 @@
+#+TITLE: Lugares que surfei
+#+LANGUAGE: pt
+#+OPTIONS: toc:nil num:nil
+
+#+begin_export html
+<p class="subtitle">De 2021 até hoje</p>
+#+end_export
+
+O grande sonho é fechar [[https://instintoviajante.com/melhores-praias-para-surfar-no-brasil/][A Lista]]
+
+Jacarézinho (bodysurf ou surf de peito) não conta, rs:
+
+- Pontal de Maracaípe, Pernambuco, Brasil
+- Praia de Intermares (Macaco), João Pessoa/Cabedelo, Paraíba, Brasil
+- Praia do Madeiro, Pipa, Tibau do Sul, Rio Grande do Norte, Brasil
+- Praia de Tourinhos, Rio Grande do Norte, Brasil
+- Praia do Amor (dos Afogados), Pipa, Tibau do Sul, Rio Grande do Norte, Brasil
+- Secret (nem tão secret assim...), Cacimbinhas, Pipa, Tibau do Sul, Rio Grande do Norte, Brasil
+- Canoa Quebrada, Ceará, Brasil (só deu para molhar com prancha, 0 ondas)
+- Fortaleza, Praia da Leste (aka "Mãe Leste"), Ceará, Brasil
+- Fortaleza/Aquiraz, Praia de Porto das Dunas (Beach Park), Ceará, Brasil
+- Fortaleza, Praia do Futuro, Ceará, Brasil (escolinha Junco é muito top!)
+- Fortaleza, Titanzinho, Ceará, Brasil
+- Fortaleza, Prainha, Ceará, Brasil
+- Fortaleza/Iguape, Pontão do Iguape, Ceará, Brasil
+- Paracuru, Ronco, Ceará, Brasil
+- Paracuru, Curralzinho, Ceará, Brasil
+- Taíba, Ceará, Brasil (peguei onda, mas... peguei mesmo foi alga!)
+- Lagoinha, Ceará, Brasil (tinha onda, apesar do nome, rs...)
+- Jericoacara, Praia Central, Ceará, Brasil
+- Praia do Arrombado, Luis Correa, Piauí, Brasil, (pelo nome, não tenho maturidade para frequentar)
+- Praia do Caolho, São Luís, Maranhão, Brasil (uma hora de surf, saí depois de um local afirmar ter visto tubarão algumas vezes kkk, diz que eles só não atacam....)
+- Salinópolis (Salinas), Praia do Atalaia, Pará, Brasil (ÉGUA, tem surf no Pará, sim! E surf no Atlântico Amazônico!)
+- Praia Mole, Florianópolis, Santa Catarina, Brasil (dureza, arrebentação mais pesada que já vi... 1.5 horas na água para pegar 1 onda!)
+- Praia do Matadeiro, Florianópolis, Santa Catarina, Brasil
+- Praia do Joaquina (a.k.a Joaca), Florianópolis, Santa Catarina, Brasil
+- Praia do Francês, Marechal Deodoro, Região Metropolitana de Maceió, Alagoas, Brasil
+- Praia de Jaguaribe, Salvador, Bahia, Brasil
+- Praia de Ipitanga, Lauro de Freitas, Região Metropolitana de Salvador, Bahia, Brasil
+- Praia de Piatã, Salvador, Bahia, Brasil (prainha charmosa, paeh...)
+- Praia do Buraquinho, Lauro de Freitas, Região Metropolitana de Salvador, Bahia, Brasil - Stand-up Paddle Wave (não foi o surf clássico, mas também conta)
+- Praia de Stella Maris, Salvador, Bahia, Brasil - Body Boarding (não foi o surf clássico, mas também conta)
+- Praia do Surf, entre a Praia de Itacimirim e Guarajuba, Camaçari, Bahia, Brasil - (num acidente de grande azar saindo do mar... ruptura de cerca de 50% do ligamento medial colateral, além de distenção do cruzado anterior, o que significa 1/2 meses parado... Mas, o pico é maneiro! E dei sorte por não precisar de cirurgia)
+- Praia da Concha, Itacaré, Bahia, Brasil - (Peguei uma onda com uma prancha de Stand-Up Paddle e era uma ondinha de 30cm... Mas....I'M BACK!!)
+- Praia da Tiririca, Itacaré, Bahia, Brasil - (Tinha condição para pranchinha... Mas, na falta de confiança no joelho, fui de bodyboard com nadadeira, que dá aquele turbo com a pernada kkk... Tá valendo.... Na próxima vai ser pranchinha, Tiririca! Aguarde!)
+- Praia de Itacarezinho, Itacaré, Bahia, Brasil - (essa praia é um absurdo de bonita... tentei com uma prancha 6'0''. Mas, só deu para descer deitado mesmo!)
+- Praia da Engenhoca, Itacaré, Bahia, Brasil - (Onda de qualidade... Agora, sim, I'M BACK e na parede!)
+- Praia da Tiririca, Itacaré, Bahia, Brasil - (Dois drops de pranchinha! Mas, essa onda é muito difícil. Na maré seca, não recomendada haha. É vala!)
+- Praia de Jeribucaçu, Itacaré, Bahia, Brasil - (Paraíso... E sem crowd em um domingo ensolarado de Primavera!)
+- Praia da Cueira, Boipeba, Cairu, Bahia, Brasil - (easy surf!)
+- Praia do Sul, Ilhéus, Bahia, Brasil - (onda longa, gordinha, gentil e 0 crowd. Peguei uma esquerda para nunca mais esquecer!)
+- Praia de Taipus de Fora, Península de Maraú, povoado de Taipus de Fora, Bahia, Brasil - (as condições estavam hostis! Mas, deu para batizar o pico :D)
+- Praia de Cassange, Península de Maraú, povoado de Barra Grande, Bahia, Brasil - (as condições estavam hostis! Mas, deu para batizar o pico :D)
+- Praia de Algodões, Península de Maraú, Bahia, Brasil - (mar azul, parei de contar depois da segunda tartaruga, várias ondinhas em cima da bancada de coral... Mas, a cabeça não tava boa. Anyhow, o pico tá batizado!)
+- Praia de Serra Grande, Uruçuca, Bahia, Brasil - (Corrente, vento, mar mexido, ondas pequenas e desalinhadas... Mas, o pico está batizado!)
+- Prainha, Itacaré, Bahia, Brasil - (Essa praia é o mais próximo de uma praia privada que existe no Brasil. Ela é pública (como todas!). Mas, para chegar lá existem duas opções: uma trilha de meia hora OU entrar via condomínio privado São José. Acabamos surfando nela no último dia de uma temporada de quase 4 meses em Itacaré. Com certeza, um momento especial. Apesar de toda a beleza e poesia, a onda é sinistra! Tomei um caldo violento numa fechadeira e escapei por um triz de um acidente... Não recomendada na maré baixa haha)
