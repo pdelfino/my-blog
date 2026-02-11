@@ -58,11 +58,10 @@ Como eu sei que você é um?
 - [[https://scholar.google.com/citations?user=evOdQlEAAAAJ&hl=en][Google Scholar]]
 
 #+begin_export html
-<form class="newsletter-form" action="https://tinyletter.com/pdelfino"
-      method="post" target="popupwindow"
-      onsubmit="window.open('https://tinyletter.com/pdelfino', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
-  <p><label for="tlemail"><i>Newsletter</i></label></p>
-  <p><input type="email" name="email" id="tlemail" /></p>
+<form class="newsletter-form" action="https://buttondown.com/api/emails/embed-subscribe/delfino"
+      method="post">
+  <p><label for="bd-email"><i>Newsletter</i></label></p>
+  <p><input type="email" name="email" id="bd-email" /></p>
   <input type="hidden" value="1" name="embed" />
   <button type="submit"><span class="fa fa-paper-plane"> Assinar</span></button>
 </form>

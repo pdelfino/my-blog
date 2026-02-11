@@ -71,11 +71,10 @@
   <a href=\"https://www.pdelfino.com.br\" style=\"font-family: et-book, Palatino, serif; font-size: 1.4rem; text-decoration: none;\">Home</a>
 </div>"
 
-             :html-postamble "<form class=\"newsletter-form\" action=\"https://tinyletter.com/pdelfino\"
-      method=\"post\" target=\"popupwindow\"
-      onsubmit=\"window.open('https://tinyletter.com/pdelfino', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true\">
-  <p><label for=\"tlemail\"><i>Newsletter</i></label></p>
-  <p><input type=\"email\" name=\"email\" id=\"tlemail\" /></p>
+             :html-postamble "<form class=\"newsletter-form\" action=\"https://buttondown.com/api/emails/embed-subscribe/delfino\"
+      method=\"post\">
+  <p><label for=\"bd-email\"><i>Newsletter</i></label></p>
+  <p><input type=\"email\" name=\"email\" id=\"bd-email\" /></p>
   <input type=\"hidden\" value=\"1\" name=\"embed\" />
   <button type=\"submit\"><span class=\"fa fa-paper-plane\"> Assinar</span></button>
 </form>")
