@@ -55,7 +55,7 @@ Como eu sei que você é um?
 #+begin_export html
 <form class="contact-form" style="margin-bottom: 2rem;"
       action="https://formspree.io/f/mreaqvjn" method="POST">
-  <p>As melhores conversas que já tive começaram com o email de um desconhecido.</p>
+  <p>Algumas das melhores conversas que já tive começaram com o email de um desconhecido.</p>
   <p><input type="text" name="name" placeholder="Seu nome" required
      style="font-family: et-book, Palatino, serif; font-size: 1rem; padding: 0.4rem 0.6rem; border: 1px solid #ccc; border-radius: 3px; width: 55%; background: #fffff8;" /></p>
   <p><input type="email" name="email" placeholder="Seu email" required
