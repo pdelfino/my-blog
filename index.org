@@ -50,9 +50,25 @@ Como eu sei que você é um?
 - [[file:lists-i-love/surfing.org][Lugares que surfei]]
 - [[file:lists-i-love/kite-surfing.org][Lugares que velejei]]
 
+* Contato
+
+#+begin_export html
+<form class="contact-form" style="margin-bottom: 2rem;"
+      action="https://formspree.io/f/mreaqvjn" method="POST">
+  <p>As melhores conversas que já tive começaram com o email de um desconhecido.</p>
+  <p><input type="text" name="name" placeholder="Seu nome" required
+     style="font-family: et-book, Palatino, serif; font-size: 1rem; padding: 0.4rem 0.6rem; border: 1px solid #ccc; border-radius: 3px; width: 55%; background: #fffff8;" /></p>
+  <p><input type="email" name="email" placeholder="Seu email" required
+     style="font-family: et-book, Palatino, serif; font-size: 1rem; padding: 0.4rem 0.6rem; border: 1px solid #ccc; border-radius: 3px; width: 55%; background: #fffff8;" /></p>
+  <p><textarea name="message" placeholder="Sua mensagem" rows="5" required
+     style="font-family: et-book, Palatino, serif; font-size: 1rem; padding: 0.4rem 0.6rem; border: 1px solid #ccc; border-radius: 3px; width: 55%; background: #fffff8; resize: vertical;"></textarea></p>
+  <input type="text" name="_gotcha" style="display:none" />
+  <button type="submit" style="font-family: et-book, Palatino, serif; font-size: 1rem; padding: 0.4rem 1rem; background: #111; color: #fffff8; border: none; border-radius: 3px; cursor: pointer;">Enviar</button>
+</form>
+#+end_export
+
 * Ponteiros
 
-- Email: p [ponto] delfino01 [arrouba] gmail [ponto] com @@html:<span class="marginnote"> A forma usual de email (e.g.: sobrenome@gmail.com) foi driblada para evitar <i>web crawlers</i> construídos por <i>spammers</i> profissionais.</span>@@
 - [[https://github.com/pdelfino][Github]]
 - [[https://www.linkedin.com/in/pedro-delfino][Linkedin]] (evito sempre que posso)
 - [[https://scholar.google.com/citations?user=evOdQlEAAAAJ&hl=en][Google Scholar]]
