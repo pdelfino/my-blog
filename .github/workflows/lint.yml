@@ -1,0 +1,21 @@
+name: Lint
+
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+
+jobs:
+  check-prohibited-characters:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check for em dashes in .org files
+        run: |
+          if grep -rn '—' --include='*.org' .; then
+            echo "::error::Found prohibited character: em dash (—). Use commas, colons, or other punctuation instead."
+            exit 1
+          fi
+          echo "No em dashes found."
