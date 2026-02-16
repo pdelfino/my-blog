@@ -77,7 +77,8 @@
   <p><input type=\"email\" name=\"email\" id=\"bd-email\" /></p>
   <input type=\"hidden\" value=\"1\" name=\"embed\" />
   <button type=\"submit\"><span class=\"fa fa-paper-plane\"> Assinar</span></button>
-</form>")
+</form>
+<p>Built with Emacs, Org-mode, LLM models, and love.</p>")
 
        (list "blog-static"
              :base-directory "./"
