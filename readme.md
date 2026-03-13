@@ -1,8 +1,8 @@
 # pdelfino.com.br
 
-![O Fado](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Jose_malhoa_fado.jpg/960px-Jose_malhoa_fado.jpg)
+![Independência ou Morte](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Pedro_Am%C3%A9rico_-_Independ%C3%AAncia_ou_Morte_-_Google_Art_Project.jpg/960px-Pedro_Am%C3%A9rico_-_Independ%C3%AAncia_ou_Morte_-_Google_Art_Project.jpg)
 
-*"O Fado" (1910) by José Malhoa — [Wikipedia](https://en.wikipedia.org/wiki/O_Fado_(painting))*
+*"Independência ou Morte" (1888) by Pedro Américo — [Wikipedia](https://en.wikipedia.org/wiki/Independence_or_Death)*
 
 A personal blog in Portuguese, built with Emacs Org-mode and Edward Tufte's CSS.
 
