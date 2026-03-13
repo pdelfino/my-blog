@@ -1,6 +1,6 @@
 # pdelfino.com.br
 
-![Independência ou Morte](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Pedro_Am%C3%A9rico_-_Independ%C3%AAncia_ou_Morte_-_Google_Art_Project.jpg/960px-Pedro_Am%C3%A9rico_-_Independ%C3%AAncia_ou_Morte_-_Google_Art_Project.jpg)
+![Independência ou Morte](./painting.jpg)
 
 *"Independência ou Morte" (1888) by Pedro Américo — [Wikipedia](https://en.wikipedia.org/wiki/Independence_or_Death)*
 
