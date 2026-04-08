@@ -29,6 +29,18 @@
                        (postamble "div" "postamble")))
 (setq org-html-container-element "section")
 
+;; Inject GoatCounter analytics script before </body> on every page.
+(defun my/inject-goatcounter (output _backend _info)
+  (replace-regexp-in-string
+   "</body>"
+   "<script data-goatcounter=\"https://pdelfino.goatcounter.com/count\"
+        async src=\"//gc.zgo.at/count.js\"></script>
+</body>"
+   output))
+
+(add-to-list 'org-export-filter-final-output-functions
+             #'my/inject-goatcounter)
+
 ;; Define the publishing project
 (setq org-publish-project-alist
       (list
@@ -58,13 +70,6 @@
     .topnav { width: 90%; }
   }
 </style>
-<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-H65WQEW9TH\"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-H65WQEW9TH');
-</script>
 <link rel=\"icon\" href=\"/img/favicon.svg\" type=\"image/svg+xml\" />"
 
              :html-preamble "<div style=\"padding-top: 1.5rem;\">
