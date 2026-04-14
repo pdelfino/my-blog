@@ -1,0 +1,20 @@
+#+TITLE: 404
+#+LANGUAGE: pt
+#+OPTIONS: toc:nil num:nil title:nil html-postamble:nil
+
+#+begin_export html
+<h1 id="404">404</h1>
+<p class="subtitle">uma página que não existe</p>
+#+end_export
+
+Algumas hipóteses, em ordem decrescente de verossimilhança:
+
+1. Movi o texto de lugar e esqueci de deixar bilhete.
+2. Era um rascunho. A maioria continua rascunho.
+3. Você digitou errado. Acontece com os melhores.
+4. Um raio cósmico inverteu um bit no meio do caminho entre o servidor e a sua tela. Improvável, mas nada é zero.
+5. O fuçador de que falei no manifesto era você — e você achou um canto que eu mesmo já tinha esquecido.
+
+Se quiser sair desse beco, a [[/][página inicial]] tem texto de verdade.
+
+/PS: se você estava procurando algo específico, me escreva pelo formulário na home. Mando o link certo — ou admito que ainda não escrevi./
